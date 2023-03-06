@@ -1,6 +1,6 @@
 # Nolus snapshot
 ### Chain-id: nolus-rila
-### Size: 5GB
+### Size: 2.1GB
 
 
 Stop node, delete data
